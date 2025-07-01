@@ -16,5 +16,5 @@ public class Cavalo {
 	public void comer(String comida) {
 	 
 		System.out.println("");
-	}
+	}}
 	
